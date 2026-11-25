@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Ahmad Akkash
 
-<!--
-**Ahmad-22dev/Ahmad-22dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (*Informatik*) student at **Westfälische Hochschule**, based in **Dortmund, Germany**.  
+I build games and modern web applications with a focus on clean architecture and gameplay systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently Building
+
+- **Razorot** — A solo-only, full-loot 3D MMORPG built from the ground up in **Godot 4 (GDScript)** with an authoritative ENet server, SQLite persistence, custom combat and quest systems, and hand-crafted medieval zones.
+
+---
+
+#### Focus & Tools
+
+| Area | Stack |
+| :--- | :--- |
+| **Game Development** | Godot 4 · GDScript · Authoritative Multiplayer (ENet) · 3D Shaders & World Building |
+| **Web Development** | TypeScript · React · Next.js · Tailwind CSS · Vercel |
+| **Backend & Systems** | SQLite · Client–Server Architecture · Git |
+
+---
+
+#### Languages
+
+Arabic · German · English *(fluent)*
